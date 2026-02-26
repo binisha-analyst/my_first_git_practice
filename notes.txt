@@ -1,4 +1,4 @@
-this is my first git practice - edited in main branch.
+this is my first git practice - edited in main AND conflict-branch.
 i am learning git slowly.
 I am learning git step by step.
 This line was added in the test-branch.
